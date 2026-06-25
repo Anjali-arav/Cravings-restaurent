@@ -1,0 +1,6 @@
+{
+  "name": "Cravings Restaurant",
+  "description": "An exquisite fine-dining experience at Cravings Restaurant, Road No-12, Jubilee Hills, Hyderabad. Explore our today's specials, delicious gourmet foods, and connect with us.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
